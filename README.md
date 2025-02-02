@@ -2,6 +2,10 @@
 
 This project is a misinformation detection system that utilizes a BERT-based model (SBERT and BERT uncase) along with Google API to verify the credibility of news articles. It provides a user-friendly interface via Gradio to allow users to check the authenticity of news.
 
+## Dataset
+
+This project uses the Fake News Detection dataset from Kaggle as the primary dataset for training and testing misinformation detection models. You can download the dataset from Kaggle and place it in the appropriate directory before running the model.
+
 ## Installation & Setup
 
 1. Clone the Repository & Download Data
