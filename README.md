@@ -59,3 +59,5 @@ Running the Model
     
     Click Check to get the misinformation detection result.
 
+#Dataset: Taken from kaggle fake news_detection repositery
+
