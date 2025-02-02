@@ -63,5 +63,5 @@ This project uses the Fake News Detection dataset from Kaggle as the primary dat
         
         Click Check to get the misinformation detection result.
 
-#Dataset: Taken from kaggle fake news_detection repositery
+
 
